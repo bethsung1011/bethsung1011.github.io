@@ -1,3 +1,11 @@
+---
+layout: single
+title:  "Precourse Algebra Example 1!"
+---
+
+# It is about Matrix, Dot Product and Cosine Similarities.
+
+
 ```python
 # Imports
 from sklearn.datasets import load_iris
